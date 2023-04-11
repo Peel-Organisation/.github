@@ -28,7 +28,7 @@
   </p>
 </div>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/Peel-Organisation)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
