@@ -20,7 +20,7 @@
     <a href="https://github.com/Peel-Organisation"><strong>Explore repositories »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Peel-Organisation/Peel_Mobile">View Demo</a>
+    <a href="https://github.com/Peel-Organisation/Peel_Mobile">View App</a>
     ·
     <a href="https://github.com/Peel-Organisation/Peel_Mobile/issues">Report Bug</a>
     ·
