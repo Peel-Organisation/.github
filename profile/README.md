@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Peel-Organisation">
-    <img src="./images/Peel_v1.png" alt="Logo" width="100" height="100">
+    <img src="/profile/images/Peel_v1.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Peel</h3>
@@ -52,6 +52,6 @@ Project Link: [https://github.com/Peel-Organisation](https://github.com/Peel-Org
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: ./images/Presentation.png
+[product-screenshot]: /profile/images/Presentation.png
 [contributors-url]: https://github.com/orgs/Peel-Organisation/people
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
