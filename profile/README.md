@@ -30,7 +30,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/Peel-Organisation)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Link to repositories
@@ -47,7 +46,6 @@ Peel Organisation - contact@peel-organisation.com
 
 Project Link: [https://github.com/Peel-Organisation](https://github.com/Peel-Organisation)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
