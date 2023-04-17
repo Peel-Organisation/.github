@@ -53,3 +53,4 @@ Project Link: [https://github.com/Peel-Organisation](https://github.com/Peel-Org
 [product-screenshot]: /profile/images/Presentation.png
 [contributors-url]: https://github.com/orgs/Peel-Organisation/people
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[Cahier des Charges]: https://docs.google.com/document/d/1ZUfnYuBEIwoJyYg4AWzOZjORIlFGbDHlexJyCi03uSY/edit?usp=sharing
