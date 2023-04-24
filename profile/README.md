@@ -66,6 +66,7 @@ Peel is an innovative dating application inspired by Tinder in the way it works 
 In order to build our app, we are developing an API and a mobile app that will run on Android and iOS devices
 
 ### Scheduled features for 20/05
+
 - Chat: Completion of the integration of Firebase Cloud Messaging using a separate API (microservice).
 - Algorithm: Completion of the user matching algorithm.
 - Profile: Adding profile customization features for users, allowing them to choose the modules to display and highlight certain parts of their personality such as their favorite GIFs/music/movies.
@@ -79,16 +80,14 @@ In order to build our app, we are developing an API and a mobile app that will r
 
 The tools used to develop our products are listed below :
 
-- Google Docs
-- Draw.io
-- Figma
-- diagrams.net
-- Canva
-- GitHub
-- React Native
-- ExpressJs
-- MongoDB
-- Firebase Cloud Messaging
+- React-Native (Mobile App)
+- API : Peel-API (Express.js and Node.js)
+- API Hosting : AWS Amazon (EC2)
+- Mobile App Hosting : App Store/ Google Play
+- CI/CD : GitHub Actions / AWS
+- Project versionning : GitHub
+- Database : MongoDB
+- Messaging in app : Firebase Cloud Messaging
 
 ### CI/CD Strategy
 
