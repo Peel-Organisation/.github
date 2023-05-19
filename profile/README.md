@@ -53,7 +53,7 @@ Cahier des charges :[Cahier des Charges](https://docs.google.com/document/d/1ZUf
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: /profile/images/Presentation.png
-[contributors-url]: https://github.com/orgs/Peel-Organisation/people
+[contributors-url]: https://github.com/orgs/Peel-Organisation/teams
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 
 
